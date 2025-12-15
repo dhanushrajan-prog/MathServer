@@ -105,10 +105,10 @@ math.html
 
 
 ## OUTPUT - SERVER SIDE:
-![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (28)-1.png>)
 
 ## OUTPUT - WEBPAGE:
-![alt text](<Screenshot (27)-1.png>)
+![alt text](<Screenshot (28).png>)
 
 ## RESULT:
 The a web page to calculate vehicle mileage and fuel efficiency using server-side scripts is created successfully.
